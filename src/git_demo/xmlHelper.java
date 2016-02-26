@@ -2,7 +2,7 @@ package git_demo;
 
 public class xmlHelper {
 	public String name;
-	public int age;
+	public int age2;
 
 	public String getName() {
 		return name;
@@ -13,10 +13,10 @@ public class xmlHelper {
 	}
 	
 	public int getAge(){
-		return age;
+		return age2;
 	}
 	
 	public void setAge(int age){
-		this.age = age;
+		this.age2 = age;
 	}
 }
